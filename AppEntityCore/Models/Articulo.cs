@@ -2,7 +2,7 @@
 
 namespace AppEntityCore.Models
 {
-
+    //comentario
 #nullable disable
     [Table("Articulos")]
     public class Articulo
